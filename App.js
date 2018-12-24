@@ -1,6 +1,6 @@
 import React, {Component} from 'react';
 import {StyleSheet, Text, View } from 'react-native';
-import { RNCamera } from 'react-native-camera-testing';
+import { RNCamera } from 'react-native-camera-tflite';
 import outputs from './Output.json';
 import _ from 'lodash';
 
